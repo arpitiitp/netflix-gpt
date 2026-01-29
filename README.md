@@ -8,6 +8,7 @@
 
 **Netflix GPT** is a feature-rich Single Page Application (SPA) that mimics the Netflix user experience. It goes beyond a simple clone by integrating **Google's Gemini AI** to provide an intelligent movie recommendation system. Users can search for movies using natural language (e.g., "Funny 90s action movies"), and the app will suggest relevant titles fetched from the **TMDB Database**.
 
+You can visit the live application here: **[Live Demo](https://my-app-1-5e2c2.web.app/)**
 ## 🛠️ Tech Stack
 
 | Category | Technology |
